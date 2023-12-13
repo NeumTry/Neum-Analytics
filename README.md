@@ -1,5 +1,7 @@
 # Neum Analytics
 
+![DALL·E 2023-12-13 10 37 52 - A futuristic device designed for auditing and observing the inner workings of a retrieval augmented generation pipeline, in a wide format  The device ](https://github.com/NeumTry/Neum-Analytics/assets/10717976/a5e20ecd-6229-4ada-a824-313b80263655)
+
 Showcase for observability analytics captured by Neum AI. The platform captures information across pipelines, files and users. To leverage these capabilities, set up your own pipelines using [dashboard.neum.ai](dashboard.neum.ai). To learn how to create your pipelines see: [Get Started](https://docs.neum.ai/get-started/quickstart)
 
 If you would like a live demo of these capabilities. Please schedule time with us [here](https://calendly.com/neum-ai/neum-ai).
